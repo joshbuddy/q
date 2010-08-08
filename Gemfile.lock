@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    q (0.0.1)
+      escape_utils (>= 0.1.5)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    escape_utils (0.1.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (>= 1.0.0.rc.3)
+  escape_utils (>= 0.1.5)
+  q!
