@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = []
   s.email       = []
   s.homepage    = "http://rubygems.org/gems/q"
-  s.summary     = "TODO: Write a gem summary"
-  s.description = "TODO: Write a gem description"
+  s.summary     = "Fast, fun, east HTML generation from Ruby"
+  s.description = "Fast, fun, east HTML generation from Ruby"
 
   s.required_rubygems_version = ">= 1.3.6"
   s.rubyforge_project         = "Q"
