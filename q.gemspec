@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.name        = "Q"
   s.version     = Q::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = []
-  s.email       = []
+  s.authors     = ['Joshua Hull']
+  s.email       = ['joshbuddy@gmail.com']
   s.homepage    = "http://rubygems.org/gems/q"
   s.summary     = "Fast, fun, east HTML generation from Ruby"
   s.description = "Fast, fun, east HTML generation from Ruby"
