@@ -31,7 +31,7 @@ Or, you can indent too
 
 And, you can one-line those values
 
-=> Q {_div 'some awesome contents' }}
-<= <div>Some awesome contents</div>
+  => Q {_div 'some awesome contents' }}
+  <= <div>Some awesome contents</div>
 
 Nest as much as you want, and use the QX method for XHTML based output.
